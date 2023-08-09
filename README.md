@@ -1,6 +1,6 @@
 - 🔧 I’m interested in solving problems and creating new projects.
 - 🧪 Biotechnologist in the morning, Python developer in the evening.
-- 💻 Other technologies I'm interested in: SQL, Django, Flask, and occasionally machine learning.
+- 💻 Other technologies I'm interested in: html,CSS, SQL, Django, and occasionally machine learning.
 - 🎮 Hobbies: Clash of Clans, drawing, gardening, 🎸 rock and indie music, fashion, anime and manga, 🍺 craft beer.
 
 <!---
